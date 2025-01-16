@@ -1,0 +1,10 @@
+counter to keep track of things over a year 
+counter should not reset if page resets
+a user can be added (unique username?)
+one user can have multiple different counters. 
+counter reset if user chooses to reset by entering one-time code/password(database management, hashing of passwords)
+the counter is kept for that user over a set period defined by the user at the creation of said counter
+
+Start without users ********
+
+have just one page with the option to add multiple counters
